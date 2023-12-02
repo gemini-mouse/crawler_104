@@ -22,8 +22,8 @@
 ## 爬取結果
 檔案命名 -  
 104_(關鍵字).xlsx
-[104_python.xlsx](result\104_python.xlsx)
-![Alt text](png\sample.png)
+[104_python.xlsx](result/104_python.xlsx)
+![Alt text](png/sample.png)
 
 ---------------------------------------
 
